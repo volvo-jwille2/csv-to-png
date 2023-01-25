@@ -1,0 +1,5 @@
+<svg width="2000" height="1125" xmlns="http://www.w3.org/2000/svg">  
+	<image href="background.jpeg" height="1125" width="2000" />  
+	<text x="500" y="400" font-size="100">placeholder1</text>  
+	<text x="600" y="700" font-size="90">placeholder2</text> 
+</svg>
